@@ -36,7 +36,14 @@ This project is open source and available under the MIT License.
 
 Created by **Sharinsathiq**  
 🐙 GitHub: [github.com/SharinTech](https://github.com/SharinTech)  
-🔗 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/your-linkedin)  
-✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+🔗 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/sharin-sathiq-basha-1784a6244/)  
+✉️ Email: [your.email@example.com](mailto:sharin.sathiqbasha@gmail.com)
+
+<img width="1208" height="505" alt="Screenshot 2025-08-07 213812" src="https://github.com/user-attachments/assets/626e5939-8940-4aaa-89d6-1c562aa97d9d" />
+<img width="461" height="496" alt="Screenshot 2025-08-07 213824" src="https://github.com/user-attachments/assets/af6aa6ee-8185-4f02-ac8c-69c4a321ac58" />
+<img width="1498" height="845" alt="Screenshot 2025-08-07 214134" src="https://github.com/user-attachments/assets/311f2b15-063b-45e1-9683-fe335ce23bfd" />
+
+
+
 
 
