@@ -35,6 +35,6 @@ This project is open source and available under the MIT License.
 ## Contact
 
 Created by **Sharinsathiq** 
-[GitHub Profile](https://github.com/SharinTech) | [Email](mailto:sharin.sathiqbasha@gmail.com) | [LinkedIn](https://linkedin.com/in/your-linkedin) 
+[GitHub Profile](https://github.com/SharinTech) | [Email](mailto:sharin.sathiqbasha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sharin-sathiq-basha-1784a6244/) 
 
 
